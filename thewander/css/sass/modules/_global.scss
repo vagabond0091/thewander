@@ -1,0 +1,44 @@
+.button-default{
+	text-decoration: none;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    background: #b8bebd;
+    text-transform: uppercase;
+    color: #404140;
+    border-radius: 25px;
+    width: 118px;
+    padding: 10px;
+    font-size: 12px;
+    position: relative;
+}
+.open{
+    display: none;
+}
+.content-section .about-container .card-container.mobile{
+    display: none;
+}
+.guide.button-default{
+    top: 12px;
+    left: 78px;
+    padding:5px;
+    font-size: 11px;
+    margin-bottom: 30px;
+}
+    
+body{
+    overflow-x:hidden;
+}
+.underline{
+		border-bottom:5px solid #b2b2b2;
+		margin-top: -20px;
+		margin-bottom: 40px;
+}
+.underline.max-width{
+	max-width: 940px;
+	margin: -20px auto 40px auto;
+}
+.underline.thick{
+    margin-top: -5px;
+    border-top:5px solid #b2b2b2;
+}
